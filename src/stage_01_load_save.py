@@ -1,7 +1,5 @@
-from turtle import color
 from src.utils.all_utils import read_yaml, create_dir
 import argparse
-import pandas as pd
 import os
 import shutil
 from tqdm import tqdm
